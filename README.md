@@ -1,2 +1,2 @@
-# -Eclipse-Mosquitto
-home automation 
+# home automation using Eclipse Mosquitto
+
